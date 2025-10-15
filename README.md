@@ -2,7 +2,7 @@
 
 An end-to-end time series forecasting project that predicts future PM2.5 air pollution levels in Delhi. The project culminates in an interactive web application built with Streamlit that provides forecasts, explains key pollution drivers, and compares the performance of various advanced forecasting models.
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://[aditya-j101-air-quality-index-app-zsy75f.streamlit.app])  ---
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://aditya-j101-air-quality-index-app-zsy75f.streamlit.app/)  ---
 
 ## 📊 Live Dashboard & Key Features
 
